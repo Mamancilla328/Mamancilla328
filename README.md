@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**Mamancilla328/Mamancilla328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Young Woman, Developer, and Teacher Assistant !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I just finished my first Full Stack course!
+
+🌱 I’m currently learning everything 🤣
+
+👀 I’m interested in learn as much as I can about the back end 
+
+👯 I am looking to work in an innovative and challenging team
+
+🥅 Personal goal: Contribute in more to open source projects
+
+⚡ Fun fact: I love stand up, I practice boxing and study marketing and communications
+
+📫 How to reach me: 
+ 
+ Gmail: macarenam328@gmail.com 
+ 
+ Phone: +54 9 1122552378 
+ 
+ LinkedIn: https://www.linkedin.com/in/macarena-mancilla-210182151/
+
+<br />
+
+
+
