@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## I'm a Young Woman, Developer, and Teacher Assistant !!
+## I'm a Young Woman, Developer and Teacher !!
 
 🔭 I just finished my first Full Stack course!
 
