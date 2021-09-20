@@ -15,7 +15,7 @@
 
 ⚡ Fun fact: I love stand up, I practice boxing and study marketing and communications
 
-📫 How to reach me: 
+## Connect with me 📫
  
  Gmail: macarenam328@gmail.com 
  
